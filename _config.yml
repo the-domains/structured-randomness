@@ -6,9 +6,9 @@ color:
   saturation: 0.2523323348723352
   rhythmicContrast: 0.3299140646122396
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: structured randomness
