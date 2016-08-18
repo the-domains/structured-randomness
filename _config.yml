@@ -1,0 +1,14 @@
+layout_spectrum: 0.6196373922284693
+typography_spectrum: 0.1066493084654212
+color:
+  brandStrength: 0.9559756023809314
+  lightness: 0.04465868137776852
+  saturation: 0.2523323348723352
+  rhythmicContrast: 0.3299140646122396
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: structured randomness
